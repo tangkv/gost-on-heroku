@@ -1,0 +1,18 @@
+{
+  "name": "gost",
+  "description": "deploy gost to Heroku.",
+  "keywords": ["gost"],
+  "env": {
+    "VER": {
+       "description": " gost version",
+       "value": "2.5"
+     }, 
+    "MODE": {
+       "description": "ws or mws",
+       "value": "mws"
+     }
+  },
+  "website": "https://github.com/wangyi2005/gost-heroku",
+  "repository": "https://github.com/wangyi2005/gost-heroku",
+  "stack": "container"
+ }
