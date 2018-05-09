@@ -13,3 +13,5 @@ gost.exe -L :1080 -F sni://sniproxy_ip:443 -F wss://your_app_name.herokuapp.com:
 # Reference List
 
 https://github.com/ginuerzh/gost
+
+https://github.com/johnsonz/go-sni-detector
