@@ -5,7 +5,7 @@
   "env": {
     "VER": {
        "description": " gost version",
-       "value": "2.5"
+       "value": "2.7.1"
      }, 
     "MODE": {
        "description": "ws or mws",
