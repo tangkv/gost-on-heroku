@@ -1,10 +1,10 @@
 # gost-heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-GOST version : 2.5+
+GOST version : 2.8.1
 
 Server Mode ：mws(default)、ws
 
-Client CLI ：
+# Client CLI ：
 
 gost.exe -L :1080 -F mwss://your_app_name.herokuapp.com:443
 
