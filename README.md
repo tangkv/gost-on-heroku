@@ -2,7 +2,7 @@
 
 GOST version : 2.8.1
 
-Server Mode ：mws(default)、ws
+Server Mode ：mws or ws
 
 # Client CLI ：
 
